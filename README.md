@@ -16,9 +16,8 @@
   <img style="margin:10px auto" src="https://github-readme-stats.vercel.app/api?username=JCGG-99977&show_icons=true&theme=transparent" />
    <img style="margin:10px auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCGG-99977&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" /> 
 </div>
-
 <div align="center" style="text-align:center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JCGG-99977" style="margin:10px auto"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JCGG-99977"></img>
 </div>
 
 >
@@ -38,7 +37,27 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">  
 </span>
 
-<!--![暗色](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)-->
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_45096273&theme=dark"> </div>
+<!-- ![暗色](https://raw.githubusercontent.com/JCGG-99977/JCGG-99977/output/github-contribution-grid-snake-dark.svg) -->
 
 ![亮色](https://raw.githubusercontent.com/JCGG-99977/JCGG-99977/output/github-contribution-grid-snake.svg)
+
+<!-- ![:JCGG-99977](https://count.getloli.com/get/@:JCGG-99977?theme=gelbooru-h) -->
+
+<div align="center">
+  <!-- <img width="150" src="https://api.oyohen.com/bing.php" /> -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Augenstern-creator&theme=dark&hide_border=true" />
+  <!-- <img width="150" src="https://api.oyohen.com/bing.php" /> -->
+</div>
+
+<div align="center">
+<img src = "https://metrics.lecoq.io/JCGG-99977?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai"></img>
+</div>
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=JCGG-99977&theme=onedark"> </div>
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=JCGG-99977&left_color=green&right_color=red)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JCGG-99977)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
