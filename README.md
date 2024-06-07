@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AA1F7&center=true&vCenter=true&random=false&width=435&lines=+%E5%87%AD%E6%97%B6%E9%97%B4%E8%B5%A2%E6%9D%A5%E7%9A%84%E4%B8%9C%E8%A5%BF;%E6%97%B6%E9%97%B4%E8%82%AF%E5%AE%9A%E4%BC%9A%E4%B8%BA%E4%B9%8B%E4%BD%9C%E8%AF%81!)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://blog.sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AA1F7&center=true&vCenter=true&random=false&width=435&lines=+%E5%87%AD%E6%97%B6%E9%97%B4%E8%B5%A2%E6%9D%A5%E7%9A%84%E4%B8%9C%E8%A5%BF;%E6%97%B6%E9%97%B4%E8%82%AF%E5%AE%9A%E4%BC%9A%E4%B8%BA%E4%B9%8B%E4%BD%9C%E8%AF%81!" alt="Typing SVG" />
+  </a>
+</div>
 
 ## Hi 👋, I’m JCGG
 ***
