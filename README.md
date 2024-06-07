@@ -10,12 +10,13 @@
 - 📫 联系方式: <a href="mailto:1848514604@qq.com">1848514604@qq.com</a>
 - 😄Read more about my: <a href="strive-forward.blog.csdn.net" target="_blank">CSDN</a>
 >
-> The bricks on the steps will not resist wear and tear, and the window grilles will not block the sunset.
+> The bricks on the steps will not resist wear and tear, and the window grilles will not block the sunset.<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
 >
 <div align="center" style="display:flex;align-content: center;justify-content: space-between;flex-wrap: wrap;">
   <img style="margin:10px auto" src="https://github-readme-stats.vercel.app/api?username=JCGG-99977&show_icons=true&theme=transparent" />
    <img style="margin:10px auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCGG-99977&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" /> 
 </div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JCGG-99977"></img>
 
 >
 > The world is an empty universe, and sometimes it still seems like a dream.
@@ -37,7 +38,4 @@
 <!-- ![暗色](https://raw.githubusercontent.com/JCGG-99977/JCGG-99977/output/github-contribution-grid-snake-dark.svg) -->
 
 ![亮色](https://raw.githubusercontent.com/JCGG-99977/JCGG-99977/output/github-contribution-grid-snake.svg)
-
-
-
 
