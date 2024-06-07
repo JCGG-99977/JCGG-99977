@@ -38,7 +38,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">  
 </span>
 
-<!-- ![暗色](https://raw.githubusercontent.com/JCGG-99977/JCGG-99977/output/github-contribution-grid-snake-dark.svg) -->
+<!--![暗色](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)-->
 
-![亮色](https://raw.githubusercontent.com/JCGG-99977/JCGG-99977/output/github-contribution-grid-snake.svg)
+![亮色](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
 
