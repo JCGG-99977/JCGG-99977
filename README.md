@@ -17,8 +17,8 @@
    <img style="margin:10px auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCGG-99977&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" /> 
 </div>
 
-<div style="text-align:center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JCGG-99977"></img>
+<div align="center" style="text-align:center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JCGG-99977" style="margin:10px auto"></img>
 </div>
 
 >
@@ -40,5 +40,5 @@
 
 <!--![暗色](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)-->
 
-![亮色](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+![亮色](https://raw.githubusercontent.com/JCGG-99977/JCGG-99977/output/github-contribution-grid-snake.svg)
 
