@@ -8,6 +8,7 @@
 ***
 - 🌱 目前正在学习 `Java` and `C#`
 - 📫 联系方式: <a href="mailto:1848514604@qq.com">1848514604@qq.com</a>
+- 😄Read more about my: <a href="strive-forward.blog.csdn.net" target="_blank">CSDN</a>
 >
 > The bricks on the steps will not resist wear and tear, and the window grilles will not block the sunset.
 >
