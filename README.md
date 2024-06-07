@@ -8,7 +8,7 @@
 ***
 - 🌱 目前正在学习 `Java` and `C#`
 - 📫 联系方式: <a href="mailto:1848514604@qq.com">1848514604@qq.com</a>
-- 😄Read more about my: <a href="strive-forward.blog.csdn.net" target="_blank">CSDN</a>
+- 😄Read more about my: <a href="https://strive-forward.blog.csdn.net" target="_blank">CSDN</a>
 >
 > The bricks on the steps will not resist wear and tear, and the window grilles will not block the sunset.<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
 >
@@ -17,7 +17,7 @@
    <img style="margin:10px auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCGG-99977&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" /> 
 </div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JCGG-99977" style="width:100%;margin-top:10px"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JCGG-99977" style="margin:10px auto"></img>
 
 >
 > The world is an empty universe, and sometimes it still seems like a dream.
