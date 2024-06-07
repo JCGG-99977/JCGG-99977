@@ -16,7 +16,8 @@
   <img style="margin:10px auto" src="https://github-readme-stats.vercel.app/api?username=JCGG-99977&show_icons=true&theme=transparent" />
    <img style="margin:10px auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCGG-99977&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" /> 
 </div>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JCGG-99977"></img>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JCGG-99977" style="width:100%;margin-top:10px"></img>
 
 >
 > The world is an empty universe, and sometimes it still seems like a dream.
